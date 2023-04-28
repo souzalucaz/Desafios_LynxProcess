@@ -1,0 +1,16 @@
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\bin\Debug\net5.0\desafio02.exe
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\bin\Debug\net5.0\desafio02.deps.json
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\bin\Debug\net5.0\desafio02.runtimeconfig.json
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\bin\Debug\net5.0\desafio02.runtimeconfig.dev.json
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\bin\Debug\net5.0\desafio02.dll
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\bin\Debug\net5.0\ref\desafio02.dll
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\bin\Debug\net5.0\desafio02.pdb
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\obj\Debug\net5.0\desafio02.csproj.AssemblyReference.cache
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\obj\Debug\net5.0\desafio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\obj\Debug\net5.0\desafio02.AssemblyInfoInputs.cache
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\obj\Debug\net5.0\desafio02.AssemblyInfo.cs
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\obj\Debug\net5.0\desafio02.csproj.CoreCompileInputs.cache
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\obj\Debug\net5.0\desafio02.dll
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\obj\Debug\net5.0\ref\desafio02.dll
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\obj\Debug\net5.0\desafio02.pdb
+C:\Users\Lucas S\Desktop\Dev\DesafiosLynxProcess\desafio02\obj\Debug\net5.0\desafio02.genruntimeconfig.cache
